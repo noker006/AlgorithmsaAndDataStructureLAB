@@ -1,0 +1,7 @@
+C:\!C#\AlgLab1\bin\Debug\AlgLab1.exe.config
+C:\!C#\AlgLab1\bin\Debug\AlgLab1.exe
+C:\!C#\AlgLab1\bin\Debug\AlgLab1.pdb
+C:\!C#\AlgLab1\obj\Debug\AlgLab1.csprojAssemblyReference.cache
+C:\!C#\AlgLab1\obj\Debug\AlgLab1.csproj.CoreCompileInputs.cache
+C:\!C#\AlgLab1\obj\Debug\AlgLab1.exe
+C:\!C#\AlgLab1\obj\Debug\AlgLab1.pdb
